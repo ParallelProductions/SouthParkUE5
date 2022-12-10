@@ -12,6 +12,6 @@ South Park Game from the PS1/N64 being remade into Unreal Engine using Blueprint
 
 -Score works on turkeys with more than 1 health, There death is not added to score yet.
 
--Snowball is not setup how id like yet, and will drift in and out on sync.
+-Snowball is not setup how id like yet, and will drift in and out of sync.
 
 -Character spawn issues (But not really needed yet, if having troubles play as kenny)
